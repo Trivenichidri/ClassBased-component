@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  width: auto;
+  background-color: yellowgreen;
+}
+.form {
+  text-align: center;
+  height: auto;
+  width: auto;
+  color: blueviolet;
+  border: 20px;
+  background-color: rgb(35, 185, 190);
+}
+h1 {
+  text-align: center;
+  color: black;
+  background-color: rgb(118, 118, 190);
+  line-height: normal;
+}
+.button .submit {
+  padding: 5px;
+  color: blue;
+}
